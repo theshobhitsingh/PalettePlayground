@@ -1,3 +1,5 @@
+# PalettePlayground
+
 ## Features
 
 - **Dynamic Background Color**: Users can choose from a list of colors to change the page's background color.
